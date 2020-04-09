@@ -1,0 +1,53 @@
+.nav-mein {
+    background: rgb(201, 201, 201);
+    width: 100%;
+    height: 60px;
+}
+ul{
+	width: 1150px;
+	margin: auto;
+	text-align: right;
+	padding-top: 15px;
+}
+li{
+	display: inline;
+	margin-right: 40px;
+	font-weight: bold;
+	font-size: 1.25em;
+}
+.wrap {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: flex-start;
+	width: 900px;
+	margin: auto;
+}
+.compon {
+    width: 249px;
+    text-align: center;
+    margin: 30px 25px 30px 25px;
+    border: solid;
+}
+.compon img {
+    width: 243px;
+    border-bottom: 1px solid;
+}
+.compon button {
+	background-color: rgb(201, 201, 201);
+	margin-bottom: 10px;
+}
+.footer {
+	background: rgb(56, 56, 56);
+	color: rgb(255, 255, 255);
+}
+.box {
+	display: flex;
+	width: 900px;
+	margin: auto;
+	padding: 40px 0;
+}
+.footer img {
+	display: block;
+	width: 450px;
+	margin-right: 15px;
+}
